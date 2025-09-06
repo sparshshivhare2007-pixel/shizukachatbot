@@ -32,7 +32,7 @@ DEV_OP = [
         InlineKeyboardButton(text="˹ ᴧʙσυᴛ ˼", callback_data="ABOUT"),
     ],
     [
-        InlineKeyboardButton(text="˹ ʜєʟᴘ ᴄσϻϻᴧηᴅ ˼", callback_data="HELP"),
+        InlineKeyboardButton(text="⌯  ʜєʟᴘ ᴄσϻϻᴧηᴅ ⌯ ", callback_data="HELP"),
     ],
 ]
 
@@ -49,7 +49,7 @@ RISHU = [
         InlineKeyboardButton(text="˹ ᴧʙσυᴛ ˼", callback_data="ABOUT"),
     ],
     [
-        InlineKeyboardButton(text="˹ ʜєʟᴘ ᴄσϻϻᴧηᴅ ˼", callback_data="HELP"),
+        InlineKeyboardButton(text="⌯  ʜєʟᴘ ᴄσϻϻᴧηᴅ ⌯ ", callback_data="HELP"),
     ],
 ]
 
